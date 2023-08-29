@@ -11,4 +11,6 @@ step 3, Add your car files into "stream - cars - Your own Folder"
 
 step 4, Enjoy your vehicle
 
+step 5, "ensure CarFolder"
+
 ###

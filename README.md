@@ -1,5 +1,5 @@
 # CarFolder
-If you are lazy like me you can use this!
+If you are lazy like me you can use this! https://discord.gg/RRXAhp2K95
 
 
 ###
